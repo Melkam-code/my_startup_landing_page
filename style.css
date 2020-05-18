@@ -15,3 +15,30 @@ h1 {
   size: 3rem;
   color: goldenrod;
 }
+
+hr {
+  background-color: #ed3330;
+  border-width: 4px;
+  max-width: 65px;
+}
+
+.btn-xl {
+  color: #fff !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #ed3330;
+  padding: 20px;
+  border-radius: 50px;
+  display: inline-block;
+  border: none;
+  transition: all 0.4s ease 0s;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-color: #ed3330;
+}
+
+.btn-primary:hover {
+  background-color: rgb(250, 199, 121);
+  border-color: rgb(250, 199, 121);
+  border-width: 5px;
+}
