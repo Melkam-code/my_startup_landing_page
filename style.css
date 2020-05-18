@@ -16,6 +16,10 @@ h1 {
   color: goldenrod;
 }
 
+.buffer {
+  height: 120px;
+}
+
 hr {
   background-color: #ed3330;
   border-width: 4px;
@@ -38,7 +42,7 @@ hr {
 }
 
 .btn-primary:hover {
-  background-color: rgb(250, 199, 121);
-  border-color: rgb(250, 199, 121);
+  background-color: goldenrod;
+  border-color: gold;
   border-width: 5px;
 }
